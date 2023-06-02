@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayy9fW8ixJFzju9ReqW98Oir0CkniEc1SxNvUzHZpaZE0tYfHhvE4r0MhMTzfbe0jrb0ZfsuVB4N78J3LQfnhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ufohorek\\Desktop\\RegExp\\Addition2\\Addition2\\Addition2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ufohorek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
