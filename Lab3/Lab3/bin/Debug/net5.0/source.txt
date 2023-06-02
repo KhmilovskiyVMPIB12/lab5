@@ -1,0 +1,6 @@
+aa@aa
+@aaa
+a.a
+aa@.aa
+aa@@aa.aa
+test@test.test
